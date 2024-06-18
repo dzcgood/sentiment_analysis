@@ -1,0 +1,6 @@
+*.ini
+cookie.txt
+spider_output/*
+smp2020/*
+weights/*
+wordcloud_img/*
